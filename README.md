@@ -6,7 +6,7 @@
 > Cardápio digital para um restaurante fictício
 
 <p align="center">
-  <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pages">Páginas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#features">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 O projeto Food Explorer é um desafio final do programa Explorer da plataforma Rocketseat. É UM APP de menu digital para um restaurante fictício.
 
 O front-end do projeto, responsável pela interface com o usuário, está disponível neste repositório. [aqui](https://github.com/Andrelfran73/Food_Explorer-Frontend)
-Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](https://github.com/Andre73/Food_Explorer-backend).
+Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](https://github.com/Andrelfran73/Food_Explorer-Backend).
 
 <h2 id="pages">📃 Páginas</h2>
 
