@@ -23,8 +23,8 @@
 
 O projeto Food Explorer é um desafio final do programa Explorer da plataforma Rocketseat. É UM APP de menu digital para um restaurante fictício.
 
-O front-end do projeto, responsável pela interface com o usuário, está disponível neste repositório. [aqui](https://github.com/Andrelfran73/Food_Explorer-Frontend)
-Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](https://github.com/Andrelfran73/Food_Explorer-Backend).
+O front-end do projeto, responsável pela interface com o usuário, está disponível neste mesmo repositório.
+Já o back-end, que faz a lógica e o armazenamento dos dados, está disponível [aqui](https://github.com/Andrelfran73/Food_Explorer-Backend).
 
 <h2 id="pages">📃 Páginas</h2>
 
@@ -81,7 +81,7 @@ Você também pode executá-la em sua máquina localmente. Certifique-se de ter 
 1. Clone o projeto:
 
 ```
-$ git clone https://github.com/madalena-rocha/food-explorer-frontend
+$ git clone https://github.com/Andrelfran73/Food_Explorer-Frontend
 ```
 
 2. Acesse a pasta do projeto:
